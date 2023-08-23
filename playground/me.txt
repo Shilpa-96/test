@@ -1,0 +1,5 @@
+{{#user}}
+Name: Shilpa Mondal
+Skills: HTML, CSS, JS, React.js, Python
+Email: shilpa45285@gmail.com
+{{/user}}
